@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mellowace&label=Profile%20views&color=0e75b6&style=flat" alt="mellowace" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mellowac3" target="blank"><img src="https://img.shields.io/twitter/follow/mellowac3?logo=twitter&style=for-the-badge" alt="mellowac3" /></a> </p>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/richnguyenn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
