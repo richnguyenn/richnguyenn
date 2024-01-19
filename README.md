@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MellowAce](https://github.com/MellowAce)
 
-- 📫 How to reach me **richardng1311@gmail.com**
+- 📫 How to reach me **richardvanguyen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
