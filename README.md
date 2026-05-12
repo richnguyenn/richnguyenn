@@ -1,32 +1,68 @@
 <h1 align="center">Hi 👋, I'm Richard Nguyen</h1>
-<h3 align="center">Passionate Honours Computer Science Student at McMaster University!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mellowace&label=Profile%20views&color=0e75b6&style=flat" alt="mellowace" /> </p>
+<h3 align="center">
+  Computer Science + Statistics Minor @ McMaster University <br/>
+  AI/ML Engineering • Backend Systems • Platform Tooling
+</h3>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/richnguyenn/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-- 🌱 I’m currently learning **Back-End Development** and **Machine Learning**!
-
-- 📫 How to reach me **richvanguyen@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_rich.nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_richard.nguyen" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=richnguyenn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/richnguyenn/">
+    <img src="https://img.shields.io/badge/LinkedIn-richnguyenn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:richvanguyen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-richvanguyen%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
+---
+
+### About Me
+
+- ⚙️ Building automation workflows, backend services, NLP pipelines, and ML applications
+- 🔬 Interested in applied AI/ML research, especially across NLP, health tech, and product-facing systems
+- 🚀 Exploring agentic workflows, developer tools, platform systems, and production-ready AI infrastructure
+- 🏐 Outside of tech, I enjoy volleyball, bouldering, combat sports, and trying new food spots
+
+---
+
+### Technical Focus
+
+AI/ML Engineering • Backend Development • Platform Systems  
+Developer Tooling • NLP Research • Product-Facing AI
+
+---
+
+### Tech Stack
+
+**Languages**
+
 <p align="left">
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" alt="rust" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/>
-  </div>
+  <img src="https://skillicons.dev/icons?i=python,rust,js,c,bash" />
+</p>
+
+**AI/ML & NLP**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+</p>
+
+**Backend & Platform**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,linux,ubuntu" />
+</p>
+
+**Tools & Environments**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI%20Workflow-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
